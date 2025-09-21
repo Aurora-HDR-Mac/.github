@@ -27,7 +27,7 @@ With **Aurora HDR Mac**, you get access to a vast collection of custom presets, 
 
 Optimized for **macOS Ventura, Sonoma, and newer**, it runs flawlessly on both Intel-based Macs and Apple Silicon (M1, M2, M3), including MacBook Air, MacBook Pro, iMac, and Mac Studio. Its intuitive interface allows beginners to achieve great results quickly, while pros appreciate the depth of control and batch processing capabilities.
 
-![Aurora HDR Interface](https://static.macupdate.com/screenshots/332936/m/aurora-hdr-screenshot.png)
+![Aurora HDR Interface](https://cdn.filtergrade.com/wp-content/uploads/2016/08/03030307/13901728_10210481657264689_180826152_o-1024x640.jpg)
 
 ---
 
